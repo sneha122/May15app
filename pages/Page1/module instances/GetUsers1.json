@@ -1,0 +1,25 @@
+{
+  "gitSyncId": "6825aa808743da389ade5d99_e4929ae3-d4a1-41f4-babd-576a08f7048d",
+  "id": "Page1_GetUsers1",
+  "moduleUUID": "4244cf60-bf06-4bff-b141-b210441b9fc4",
+  "packageUUID": "bab8a423-6ed7-41b2-8525-e8498d116197",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "limit": "5"
+    },
+    "moduleInputs": {
+      "cfljhfyadm": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "2",
+        "id": "cfljhfyadm",
+        "label": "limit",
+        "propertyName": "inputs.limit"
+      }
+    },
+    "name": "GetUsers1",
+    "pageId": "Page1",
+    "version": "v1.0.0"
+  }
+}
